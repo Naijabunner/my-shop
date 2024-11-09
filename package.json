@@ -1,7 +1,5 @@
 {
-  "expo": {
   "name": "my-shop",
-  "slug": "my-shop",
   "scheme": "my-shop",
   "version": "1.0.0",
   "main": "expo-router/entry",
@@ -28,5 +26,4 @@
     "typescript": "^5.1.3"
   },
   "private": true
-}
 }
